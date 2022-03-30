@@ -1,0 +1,25 @@
+
+{
+  "name": "link-slot-gacor",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "homepage": "https://github.com/borobodo/link-slot-gacor",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/borobodo/daftar-link-slot-gacor.git"
+  },
+  "dependencies": {
+    "axios": "^0.20.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "slot gacor","slot gacor hari ini","link slot gacor","daftar link bocoran slot gacor","link bocoran","slot gacor pragmatic hari ini"
+  ],
+  "author": "BoroBodo <borobodohbiribidik@gmail.com>",
+  "license": "ISC"
+}
+
